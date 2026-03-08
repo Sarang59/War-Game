@@ -1,0 +1,79 @@
+Beasts:
+Griffin reports to Demon King
+Beasts (Strongest to weakest)	- Expert in				-	Health Points		-	Weak Against
+0. Griffin 			- All rounder - no weapon - CHIEF	-	1200			-	General
+				  (Can fly, use magic, super strong)		
+1. Wendigo			- All rounder - Sword			-	950			-	General, Magical Knight (Possibility of tie)
+				  (Use magic, Swordsman)		
+2. Cat Spirit			- All rounder - Cat claws		-	900			-	General, Magical Knight, Wizard, Champion (Possibility of tie)
+				  (Use magic, super strong)		
+3. Phoenix			- Use magic and can fly			-	850			-	General, Magical Knight, Wizard(Possibility of tie), Thunderer (Possibility of tie)
+
+4. Vampire			- Use magic and transformation to bat  	-	800			-	General, Magical Knight, Wizard, Thunderer
+				  (can fly, magic staff)
+
+5. Succubus			- Dream and charm magic and can fly	- 	750			- 	General, Magical Knight, Wizard, Thunderer, Champion, Hercules, Musketeer (Possibility of tie)
+
+5. Dragon			- Use Magic and can fly			-	700			-	General, Magical Knight, Wizard
+
+6. Witch			- Use magic - Wand, can fly on broom	-	650			-	General, Magical Knight, Wizard, Thunderer
+7. Giant			- Super strong				-	600			-	General, Magical Knight, Wizard, Champion, Hercules (Possibility of tie), Musketeer, Gladiator (Possibility of tie)
+
+8. Centaur			- fast and Bow and arrow		-	550			- 	General, Magical Knight, Wizard, Thunderer, Musketeer, Knight (Possibility of tie), Champion
+
+9. Cerberus			- fast and claws			-	500			-	General, Magical Knight, Wizard, Thunderer, Knight, Champion, Gladiator (Possibility of tie), Bishop (Possibility of tie) 
+
+10. Minotaur			- Sword and shield			-	450			-	General, Magical Knight, Wizard, Thunderer, Knight, Champion, Gladiator, Rook(Possibility of tie)
+
+11. Werewolf			- Hammer				-	400			-	General, Magical Knight, Wizard, Thunderer, Knight, Champion, Gladiator, Bishop, Rook
+
+12. Dwarf			- Axe					-	350			-	General, Magical Knight, Wizard, Thunderer, Knight, Champion, Crusader, Gallant, Bishop, Gladiator, Rook, Musketeer
+
+13. Elf				- Spear					-	300			-	General, Magical Knight, Wizard, Thunderer, Knight, Champion, Crusader, Gallant, Bishop, Gladiator, Rook, Musketeer, Archer, Squire(Possibility of tie)
+
+14. Goblin			- Slingshot				- 	250			- 	General, Magical Knight, Wizard, Thunderer, Knight, Champion, Crusader, Bishop, Rook, Musketeer, Archer, Ranger(Possibility of tie) 
+
+15. Orc				- Sword					-	200			- 	General, Magical Knight, Wizard, Thunderer, Knight, Champion, Crusader, Gallant, Bishop, Gladiator, Rook, Musketeer, Archer, Squire, Ranger
+
+Behemoth, Troll, Colossus, Golem
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Heroes:
+General reports to King
+Heroes (Strongest to weakest)	- Expert in				-	Health Points		-	Weak Against
+0. General			- All rounder (Chief, experienced) 	- 	1500			-	Griffin (Sometimes, Most of the times General will win, but may result into tie)
+
+1. Magical Knight 		- All rounder (Magic and sword)		-	1050			-	Griffin
+2. Wizard 			- Wand					-	1000			- 	Griffin, Wendigo
+3. Champion 			- Swordsman, fast			-	950			-	Griffin, Wendigo, Cat Spirit(Possibility of tie) , Witch, Vampire, Dragon, Phoenix
+
+4. Thunderer 			- Fast and thunder magic		- 	900			-	Griffin, Wendigo, Cat Spirit, Dragon (Possibility of tie), Giant
+
+5. Hercules 			- Super strong, fast			-	850			-	Griffin, Wendigo, Cat Spirit, Phoenix, Vampire, Dragon
+
+6. Musketeer 			- Crossbows and Magic			- 	800			-	Griffin, Wendigo, Cat Spirit, Phoenix, Dragon, Succubus, Vampire, Witch, Giant, Centaur(Possibility of tie)
+
+7.Paladin			- Horse, Sword and shield		-	750			-	Griffin, Wendigo, Cat Spirit, Phoenix, Succubus, Vampire, Witch, Giant
+
+8. Gladiator 			- A Hammer				-	700			-	Griffin, Wendigo, Cat Spirit, Phoenix, Vampire, Witch, Giant(Possibility of tie), Cenataur
+
+9. Knight 			- Horse and Sword			-	650			- 	Griffin, Wendigo, Cat Spirit, Phoenix, Vampire, Witch, Giant, Centaur (Possibility of tie)
+
+10. Bishop 			- Magic Staff				-	600 			-	Griffin, Wendigo, Cat Spirit, Phoenix, Vampire, Witch, Giant, Cenataur, Cerberus(Possibility of tie), Minotaur
+
+11. Rook 			- Sword and shield			-	550			-	Griffin, Wendigo, Cat Spirit, Phoenix, Vampire, Witch, Giant, Cenataur, Cerberus, Minotaur(Possibility of tie)
+
+12. Crusader 			- two Axes 				-	500			-	Griffin, Wendigo, Cat Spirit, Phoenix, Vampire, Witch, Giant, Cenataur, Cerberus, Minotaur, Werewolf
+
+13. Gallant 			- two Daggers				-	450			-	Griffin, Wendigo, Cat Spirit, Phoenix, Vampire, Witch, Giant, Cenataur, Cerberus, Minotaur, Werewolf
+
+14. Archer 			- Bows and Arrows			- 	400			- 	Griffin, Wendigo, Cat Spirit, Phoenix, Vampire, Witch, Giant, Cenataur, Cerberus, Minotaur, Werewolf, Dwarf
+
+15. Squire 			- Spear					-	350			-	Griffin, Wendigo, Cat Spirit, Phoenix, Vampire, Witch, Giant, Cenataur, Cerberus, Minotaur, Werewolf, Dwarf, Goblin, Elf (Possibility of tie)
+ 
+16. Ranger 			- Slingshot				-	300			-	Griffin, Wendigo, Cat Spirit, Phoenix, Vampire, Witch, Giant, Cenataur, Cerberus, Minotaur, Werewolf, Dwarf, Goblin (Possibility of tie), Elf
+
+------------------------------------------
+Remove the random damage points.
+Give a good story.
+
